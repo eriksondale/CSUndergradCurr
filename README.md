@@ -21,37 +21,39 @@ A list of resources I have put together for open-source learning representative 
 * System Software
   * [CMU 15-213 Intro to Computer Systems](https://www.cs.cmu.edu/~213/schedule.html) 
 * Operating Systems
-  * Berk OS Course 
+  * [UC Berkeley CS162 Operating Systems Spring 2020 Lectures](https://www.youtube.com/watch?v=itfEcA3TXq4&list=PLIMsSuI81pxq7c91oQMpmXgmGICbuDA_c) 
 * Theoretical Computer Computer science
-  * CMU's Great Theoretical Ideas in Computer Science 
+  * [CMU's Ryan O'Donnell Great Theoretical Ideas in Computer Science Lectures](https://www.youtube.com/watch?v=khyrgbiz20o&list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) 
 * Algorithms
-  * CLRS Book
-  * Coursera 
+  * [CLRS Book](https://github.com/rethinktechnology/book/blob/master/introduction-to-algorithms-3rd-edition.pdf) 
+  * [Coursera Princeton Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
+  * [Coursera Princeton Algortihms Part 2](https://www.coursera.org/learn/algorithms-part2)  
 * Software Engineering
-  * Read Soft/Hard Skill Books
-    * 
+  * [Read Soft/Hard Skill Books (Linked Examples)](https://www.amazon.com/Best-Sellers-Books-Software-Design-Engineering/zgbs/books/491316) 
   * Do a Project w/ Friends 
   * Hackathons! 
+  * Do Internship or Part-Time Job
 * Quality Assurance
-  * Bill Laboon's Course
+  * [Bill Laboon's Course Spring 2019](https://github.com/laboon/CS1632_Spring2019)
 * Databases 
-  * CMU/Berk Courses on YT 
+  * [CMU 15-445/645 Intro to Database Systems Fall 2019](https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) 
 * Data Science
-  * CMU Practical Data Science 
+  * [CMU Practical Data Science](http://www.datasciencecourse.org/) 
 * Machine Learning
-  * CMU/Berk Courses on YT
+  * [CMU 10-301/601 - Introduction to Machine Learning Spring 2020](https://www.youtube.com/watch?v=dWBFGglu7qQ&list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk) 
 * Deep Learning 
-  * MIT Deep Learning in the Life Sciences 
+  * [MIT Deep Learning in the Life Sciences Spring 2021](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX) 
   * https://madewithml.com/
   * https://mithi.github.io/deep-blueberry/ 
 * Networking
-  * Stanford Course  
+  * [Stanford CS144 Introduction to Computer Networking](https://www.youtube.com/watch?v=qAFI-2I7wPE&list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS) 
 * Security
-  * Hacking the Art of Exploitation 
+  * [Hacking the Art of Exploitation Book](https://github.com/alitekdemir/Python-Books/blob/master/Jon%20Erickson%20-%20Hacking%20Art%20of%20Exploitation.pdf) 
   * See Certificates Available and Supporting Courses 
+  * Need to Work on This Section a Little....
 * Tools of the Trade
-  * MIT Missing: https://missing.csail.mit.edu/ 
+  * [MIT Missing Semester of CS Education](https://missing.csail.mit.edu/)
 * Applied Cloud Computing 
   * AWS Training and Certification 
   * https://acloudguru.com/
-  * Free Code Camp AWS Solutions Architect Associate (2020): https://www.youtube.com/watch?v=Ia-UEYYR44s 
+  * [Free Code Camp AWS Solutions Architect Associate (2020)](https://www.youtube.com/watch?v=Ia-UEYYR44s)
