@@ -1,7 +1,6 @@
-# CSUndergradCurr
-A list of resources I have put together for open-source learning representative of a full suite of undergraduate CS Courses 
+# Dale's Compiled Resources for a Free / Limited-Cost Computer Science Undergraduate Curriculum 
 
-###################### !!! WORK IN PROGRESS  !!! ###################################
+A list of resources I have put together for open-source/free learning representative of a full suite of undergraduate CS Courses 
 
 * Basics and Getting Your Feet Wet...
   * [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
@@ -53,6 +52,10 @@ A list of resources I have put together for open-source learning representative 
   * Need to Work on This Section a Little....
 * Tools of the Trade
   * [MIT Missing Semester of CS Education](https://missing.csail.mit.edu/)
+* Web Development Learning Paths
+  * [Front End Map](https://roadmap.sh/frontend) 
+  * [Back End Map](https://roadmap.sh/backend)
+  * [DevOps Map](https://roadmap.sh/devops) 
 * Applied Cloud Computing 
   * AWS Training and Certification 
   * https://acloudguru.com/
