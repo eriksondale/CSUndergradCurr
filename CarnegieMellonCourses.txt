@@ -1,0 +1,126 @@
+CS / CS Adjacent Courses: 
+
+ 15-050 Study Abroad
+ 15-075 Computer Science Co-Op
+ 15-090 Computer Science Practicum
+ 15-112 Fundamentals of Programming and Computer Science
+ 15-122 Principles of Imperative Computation
+ 15-128 Freshman Immigration Course 
+ 15-129 Freshman Immigration Course II 
+ 15-131 Great Practical Ideas in Computer Science / https://missing.csail.mit.edu/ 
+ 15-150 Principles of Functional Programming
+ 15-151 Mathematical Foundations of Computer Science / https://infinitedescent.xyz/ / Yale
+ 15-210 Parallel and Sequential Data Structures and Algorithms / https://sites.google.com/view/algorithms-book/home 
+ 15-213 Introduction to Computer Systems
+ 15-214 Principles of Software Construction: Objects, Design, and Concurrency
+ 15-221 Technical Communications for Computer Scientists (Doha, Qatar)
+ 15-251 Great Theoretical Ideas in Computer Science
+ 15-300 Research and Innovation in Computer Science
+ 15-312 Foundations of Programming Languages
+ 15-313 Foundations of Software Engineering
+ 15-317 Constructive Logic
+ 15-322 Introduction to Computer Music
+ 15-323 Computer Music Systems and Information Processing
+ 15-354 Computational Discrete Mathematics
+ 15-355 Modern Computer Algebra
+ 15-359 Probability and Computing
+ 15-381 Artificial Intelligence: Representation and Problem Solving
+ 15-400 Research Practicum in Computer Science
+ 15-410 Operating System Design and Implementation
+ 15-411 Compiler Design
+ 15-414 Bug Catching: Automated Program Verification and Testing 
+ 15-415 Database Applications
+ 15-418 Parallel Computer Architecture and Programming
+ 15-424 Foundations of Cyber-Physical Systems
+ 15-440 Distributed Systems
+ 15-441 Computer Networks
+ 15-451 Algorithm Design and Analysis
+ 15-453 Formal Languages, Automata and Complexity
+ 15-455 Undergraduate Complexity Theory
+ 15-456 Computational Geometry
+ 15-462 Computer Graphics
+ 15-591 Independent Study in Computer Science
+ 15-599 Undergraduate Thesis Research
+ 02-510 Computational Genomics
+ 05-391 Designing Human Centered Software
+ 10-401 Introduction to Machine Learning
+ 11-411 Natural Language Processing
+ 16-384 Robot Kinematics and Dynamics
+ 16-385 Computer Vision
+ 21-120 Differential and Integral Calculus => See Textbook
+ 21-122 Integration and Approximation
+ 21-127 Concepts of Mathematics => See Textbook
+ 21-241 Matrices and Linear Transformations => See 3 Blue 1 Brown 
+ 21-242 Matrix Theory
+ 21-341 Linear Algebra
+ 21-259 Calculus in Three Dimensions
+ 21-300 Basic Logic
+ 21-301 Combinatorics
+ 21-325 Probability
+ 21-484 Graph Theory
+ 36-217 Probability Theory and Random Processes
+ 36-225 Introduction to Probability Theory
+ 80-310 Formal Logic
+ 80-311 Undecidability and Incompleteness
+
+Comp Bio Courses: 
+
+ 02-201 Programming for Scientists
+ 02-218 Introduction to Computational Medicine
+ 02-223 Personalized Medicine: Understanding Your Own Genome
+ 02-250 Introduction to Computational Biology
+ 02-251 Great Ideas in Computational Biology
+ 02-261 Quantitative Cell and Molecular Biology Laboratory
+ 02-317 Algorithms in Nature
+ 02-319 Genomics and Epigenetics of the Brain
+ 02-331 Modeling Evolution
+ 02-402 Computational Biology Seminar
+ 02-403 Special Topics in Bioinformatics and Computational Biology
+ 02-414 String Algorithms
+ 02-421 Algorithms for Computational Structural Biology
+ 02-425 Computational Methods for Proteogenomics and Metabolomics
+ 02-450 Automation of Scientific Research
+ 02-499 Independent Study in Computational Biology
+ 02-500 Undergraduate Research in Computational Biology
+ 02-510 Computational Genomics
+ 02-512 Computational Methods for Biological Modeling and Simulation
+ 02-514 String Algorithms
+ 02-515 Advanced Topics in Computational Genomics
+ 02-518 Computational Medicine
+ 02-530 Cell and Systems Modeling
+ 02-540 Bioimage Informatics
+ 02-601 Programming for Scientists
+ 02-602 Professional Issues for Computational and Automated Scientists
+ 02-604 Fundamentals of Bioinformatics
+ 02-605 Professional Issues in Automated Science
+ 02-613 Algorithms and Advanced Data Structures
+ 02-614 String Algorithms
+ 02-620 Machine Learning for Scientists
+ 02-651 New Technologies and Future Markets
+ 02-654 Biotechnology Enterprise Development
+ 02-680 Essential Mathematics and Statistics for Scientists
+ 02-699 Independent Study in Computational Biology
+ 02-700 M.S. Thesis Research
+ 02-702 Computational Biology Seminar
+ 02-703 Special Topics in Bioinformatics and Computational Biology
+ 02-710 Computational Genomics
+ 02-711 Computational Molecular Biology and Genomics
+ 02-712 Computational Methods for Biological Modeling and Simulation
+ 02-714 String Algorithms
+ 02-715 Advanced Topics in Computational Genomics
+ 02-717 Algorithms in Nature
+ 02-718 Computational Medicine
+ 02-719 Genomics and Epigenetics of the Brain
+ 02-721 Algorithms for Computational Structural Biology
+ 02-725 Computational Methods for Proteogenomics and Metabolomics
+ 02-730 Cell and Systems Modeling
+ 02-731 Modeling Evolution
+ 02-740 Bioimage Informatics
+ 02-750 Automation of Scientific Research
+ 02-760 Laboratory Methods for Computational Biologists
+ 02-761 Laboratory Methods for Automated Biology I
+ 02-762 Laboratory Methods for Automated Biology II
+ 02-763 Automated Science Capstone I
+ 02-764 Automated Science Capstone II
+ 02-801 Computational Biology Internship
+ 02-900 Ph.D. Thesis Research
