@@ -60,3 +60,29 @@ A list of resources I have put together for open-source/free learning representa
   * AWS Training and Certification 
   * https://acloudguru.com/
   * [Free Code Camp AWS Solutions Architect Associate (2020)](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+
+
+### Things To Add
+
+* History of Computer Science
+* Advanced Computer Architecture
+* Linear Algebra
+* Abstract Algebra
+* Calculus (Single and Multiple)
+* Diff Eq
+* Alternative Computer Systems / Architecture (x86, ARM, etc.) 
+* Programming Language Semantics
+* Compiler Design
+* Functional Programming
+* Undergraduate Complexity Theory
+* Compression 
+* Cryptography
+* Computer Graphics
+* Computer Vision
+* Natural Language Processing 
+* Cybersecurity 
+* Artificial Intelligence
+* Quantum Computing 
+* Robotics
+* Psychology and Social Implications of Computing Technology 
+* Educational Technology
