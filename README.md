@@ -71,18 +71,25 @@ A list of resources I have put together for open-source/free learning representa
 * Calculus (Single and Multiple)
 * Diff Eq
 * Alternative Computer Systems / Architecture (x86, ARM, etc.) 
-* Programming Language Semantics
+* Web Design and Aplications (HTML, CSS, JS, JQuery)
+* Robot Platform Design and Programming
+* Structural Programming Languages
+* Functional Programming Languages
+* Programming Language Semantics / Theory 
+* System Desing Methodology
 * Compiler Design
-* Functional Programming
 * Undergraduate Complexity Theory
+* Gradute Theory 
 * Compression 
-* Cryptography
+* Cryptography and Network Security 
 * Computer Graphics
 * Computer Vision
 * Natural Language Processing 
-* Cybersecurity 
+* Cybersecurity (Applied Focus)
 * Artificial Intelligence
+* High Performance Computing 
 * Quantum Computing 
-* Robotics
+* Game Design and Implementation
+* Human Language (Linguistics) and NLP 
 * Psychology and Social Implications of Computing Technology 
 * Educational Technology
